@@ -7,3 +7,14 @@ I love solving complex problems that gives me more idea turning it to something 
 I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 
 I value simple content structure, clean design patterns, and thoughtful interactions.
+
+
+
+
+
+Find me around the web 🌎:
+
+
+
+Relating with other Developers to improve tech skills
+Learning to become a clean programmer with simple codes 📹 ✍🏾
