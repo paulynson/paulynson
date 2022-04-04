@@ -4,8 +4,6 @@ I'm a Frontend Developer and a UI designer who is passionate about creating tech
 
 I love solving complex problems that gives me more idea turning it to something beautiful and eye catching which also gives me the innovation to work with pixels as a great tool of beauty. When I'm not coding, I love playing football or video games.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulynson&repo=github-readme-stats)](https://github.com/paulynson/github-readme-stats)
-
 I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 
 I value simple content structure, clean design patterns, and thoughtful interactions.
