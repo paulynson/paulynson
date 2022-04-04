@@ -15,7 +15,7 @@ Find me around the web 🌎:
 Relating with other Developers to improve tech skills
 Learning to become a clean programmer with simple codes 📹 ✍🏾
 
-https://github-readme-stats.vercel.app/api?username=paulynson&show_icons=true&theme=radical
+[![paulynson's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulynson)](https://github.com/paulynson/github-readme-stats)
 
 
 ![Metrics](https://metrics.lecoq.io/paulynson?template=classic&posts=1&traffic=1&languages=1&isocalendar=1&introduction=1&isocalendar.duration=full-year&languages.limit=5&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Africa%2FLagos)
