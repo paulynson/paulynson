@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a talented Frontend Developer and UI Designer, my passion lies in creating transformative technology that empowers individuals both locally and globally.
+As a dedicated Frontend Developer and UI Designer, my passion lies in creating transformative technology that empowers individuals both locally and globally.
 
 I thrive on solving complex problems, using my creativity to transform challenges into stunning, eye-catching solutions. I consider every pixel an opportunity for innovation, harnessing their power to create aesthetically pleasing and visually engaging experiences. Whether it's crafting code from scratch or bringing imaginative ideas to life in the browser, I find immense satisfaction in turning concepts into tangible digital realities.
 
